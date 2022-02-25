@@ -1,3 +1,6 @@
+// --------------------------------------------------------------------------
+//                  Programa para inverter a frase digitada
+// --------------------------------------------------------------------------
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
@@ -8,7 +11,7 @@ int main(void) {
     char frase[150];
     int tamanhoFrase = 0, i = 0;
 
-    printf("Digite uma frase(Máximo 150 caracteres): ");
+    printf("Digite uma frase(MÃ¡ximo 150 caracteres): ");
     gets(frase);
 
 
