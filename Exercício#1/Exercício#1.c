@@ -1,3 +1,7 @@
+// --------------------------------------------------------------------------
+//   Programa para somar incrementar um número com o anterior INDICE vezes
+// --------------------------------------------------------------------------
+
 #include <stdlib.h>
 #include <stdio.h>
 

@@ -1,3 +1,7 @@
+// --------------------------------------------------------------------------
+//  Programa para verificar se o número faz parte da sequência de Fibonacci
+// --------------------------------------------------------------------------
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
